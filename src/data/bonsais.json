@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "nombre": "Bonsái Zen",
+    "especie": "Ficus Retusa",
+    "edad": 5,
+    "precio": 45,
+    "stock": 12,
+    "cuidados": ["Riego moderado", "Luz indirecta", "Abono mensual"]
+  },
+  {
+    "id": 2,
+    "nombre": "Mini Sakura",
+    "especie": "Prunus Serrulata",
+    "edad": 3,
+    "precio": 60,
+    "stock": 5,
+    "cuidados": ["Riego abundante", "Sol directo", "Poda estacional"]
+  },
+  {
+    "id": 3,
+    "nombre": "Pino Imperial",
+    "especie": "Pinus Thunbergii",
+    "edad": 12,
+    "precio": 120,
+    "stock": 2,
+    "cuidados": ["Riego bajo", "Sol directo", "Sustrato drenante"]
+  }
+]
